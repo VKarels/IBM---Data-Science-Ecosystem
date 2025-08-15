@@ -1,0 +1,1 @@
+In this final assignment for the IBM Module 'Tools for Data Science', students were required to create a Jupyter Notebook and complete exercises. Upload to GitHub was then needed for peer review later.
